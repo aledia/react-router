@@ -1,4 +1,4 @@
-// components/About.js
+src/About.js// components/About.js
 
 import React from 'react';
 
