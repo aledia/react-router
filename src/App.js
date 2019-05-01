@@ -13,7 +13,6 @@ class App extends Component {
     var loggedIn = this.loggedIn
     return (
       <div className="App">
-        <Navigation></Navigation>
         <header className="App-header">
           {/* https://stackoverflow.com/questions/49162311/react-difference-between-route-exact-path-and-route-path */}
           <Switch>
